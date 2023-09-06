@@ -2,6 +2,10 @@
 
 # python-for-devops-01
 
+### Github Codespaces
+
+Build out python project scaffold:
+
 * [Makefile](https://github.com/QuickyBooster/python-for-devops-01/blob/master/Makefile)
 * [requirement.txt](https://github.com/QuickyBooster/python-for-devops-01/blob/master/requirement.txt)
 * [test_devopslib.py](https://github.com/QuickyBooster/python-for-devops-01/blob/master/test_devopslib.py)
@@ -11,4 +15,5 @@
 * Microservices
 
 1. Create a virtualenv: `virutalenv ~/.venv`
-2. Edit my `~/bashrc`
+2. Edit my `~/bashrc` `source ~/.venv/bin/activate`
+3. clone project then run `make all`
