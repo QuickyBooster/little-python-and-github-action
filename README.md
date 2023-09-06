@@ -1,3 +1,5 @@
+[![Test Multiple Python Versions](https://github.com/QuickyBooster/python-for-devops-01/actions/workflows/master.yml/badge.svg?branch=master)](https://github.com/QuickyBooster/python-for-devops-01/actions/workflows/master.yml)
+
 # python-for-devops-01
 
 * Makefile
