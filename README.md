@@ -2,10 +2,10 @@
 
 # python-for-devops-01
 
-* Makefile
-* requirement.txt
-* test_library.py
-* python_library
+* [Makefile](https://github.com/QuickyBooster/python-for-devops-01/blob/master/Makefile)
+* [requirement.txt](https://github.com/QuickyBooster/python-for-devops-01/blob/master/requirement.txt)
+* [test_devopslib.py](https://github.com/QuickyBooster/python-for-devops-01/blob/master/test_devopslib.py)
+* [python_library](https://github.com/QuickyBooster/python-for-devops-01/tree/master/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservices
